@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/defi-react-tailwind/static/css/main.8d1bef3c.css",
+    "main.js": "/defi-react-tailwind/static/js/main.f7a5d379.js",
+    "static/media/video.mp4": "/defi-react-tailwind/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/terminal.png": "/defi-react-tailwind/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/defi-react-tailwind/index.html",
+    "main.8d1bef3c.css.map": "/defi-react-tailwind/static/css/main.8d1bef3c.css.map",
+    "main.f7a5d379.js.map": "/defi-react-tailwind/static/js/main.f7a5d379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d1bef3c.css",
+    "static/js/main.f7a5d379.js"
+  ]
+}
